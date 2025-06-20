@@ -1,4 +1,4 @@
-// File: C:\Users\NadineOlifantPlanet4\Documents\GitHub\dr-kabongo-salumu-practices\app\page.tsx
+// File: C:\Users\NadineOlifantPlanet4\Documents\GitHub\dr\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
