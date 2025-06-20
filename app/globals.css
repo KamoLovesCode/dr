@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Typography System */
 :root {
   /* Font Sizes */
@@ -290,10 +294,6 @@ body {
     margin-right: auto;
   }
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 @layer base {
   :root {
