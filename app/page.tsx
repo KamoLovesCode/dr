@@ -22,14 +22,14 @@ export default function HomePage() {
 
   // Background images for the slideshow
   const backgroundImages = [
-    "/images/Medical research-pana.png",
-    "/images/Retroviruses-pana.png",
-    "/images/Hospital wheelchair-amico.png",
-    "/images/Retroviruses-cuate.png",
-    "/images/Medical care-pana.png",
-    "/images/Nursing home-pana.png",
-    "/images/Medicine-rafiki.png",
-    "/images/Doctors-pana.png",
+    "/dr/images/Medical research-pana.png",
+    "/dr/images/Retroviruses-pana.png",
+    "/dr/images/Hospital wheelchair-amico.png",
+    "/dr/images/Retroviruses-cuate.png",
+    "/dr/images/Medical care-pana.png",
+    "/dr/images/Nursing home-pana.png",
+    "/dr/images/Medicine-rafiki.png",
+    "/dr/images/Doctors-pana.png",
   ]
 
   // Image slideshow effect
@@ -133,7 +133,7 @@ export default function HomePage() {
             <div className="flex flex-col md:flex-row items-center gap-6 md:gap-8 mb-8 md:mb-16">
               <div className="w-full md:w-1/3 flex-shrink-0 flex justify-center">
                 <Image
-                  src="/images/Medical research-pana.png"
+                  src="/dr/images/Medical research-pana.png"
                   alt="About Dr. Kabongo Salumu"
                   width={300}
                   height={400}

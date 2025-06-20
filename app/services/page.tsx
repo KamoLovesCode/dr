@@ -371,7 +371,7 @@ export default function ServicesPage() {
             </div>
             <div className="relative order-first lg:order-last">
               <Image
-                src="/images/Retroviruses-pana.png"
+                src="/dr/images/Retroviruses-pana.png"
                 alt="Wellness Programs"
                 width={500}
                 height={400}

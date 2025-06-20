@@ -33,7 +33,7 @@ export default function AboutPage() {
           <div className="flex flex-col lg:grid lg:grid-cols-2 gap-4 md:gap-12 items-center">
             <div className="relative w-full max-w-xs sm:max-w-sm md:max-w-md mx-auto order-first lg:order-first">
               <Image
-                src="/images/Hospital wheelchair-amico.png"
+                src="/dr/images/Hospital wheelchair-amico.png"
                 alt="Dr. Kabongo Salumu"
                 width={300}
                 height={400}
@@ -81,7 +81,7 @@ export default function AboutPage() {
             <p className={`text-xs sm:text-base md:text-lg text-gray-600 max-w-md md:max-w-2xl mx-auto ${getBodyClass()}`}>Strong educational foundation and ongoing professional development.</p>
             <div className="flex justify-center my-2 md:my-4">
               <Image
-                src="/images/Retroviruses-cuate.png"
+                src="/dr/images/Retroviruses-cuate.png"
                 alt="Credentials"
                 width={300}
                 height={220}

@@ -36,16 +36,16 @@ export default function RootLayout({
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Dr. Kabongo Salumu - General Practitioner" />
         <meta property="og:description" content="Comprehensive healthcare services with over 20 years of experience in Kempton Park" />
-        <meta property="og:image" content="/images/doctor-icon.svg" />
-        <meta property="og:url" content="https://www.drsalumu.xyz/" />
+        <meta property="og:image" content="/dr/images/doctor-icon.svg" />
+        <meta property="og:url" content="https://kamolovescode.github.io/dr/" />
         <meta property="og:site_name" content="Dr. Kabongo Salumu" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Dr. Kabongo Salumu - General Practitioner" />
         <meta name="twitter:description" content="Comprehensive healthcare services with over 20 years of experience in Kempton Park" />
-        <meta name="twitter:image" content="/images/doctor-icon.svg" />
-        <link rel="canonical" href="https://www.drsalumu.xyz/" />
-        <link rel="icon" href="/images/medical-symbol.png" type="image/png" />
-        <link rel="manifest" href="/manifest.json" />
+        <meta name="twitter:image" content="/dr/images/doctor-icon.svg" />
+        <link rel="canonical" href="https://kamolovescode.github.io/dr/" />
+        <link rel="icon" href="/dr/images/medical-symbol.png" type="image/png" />
+        <link rel="manifest" href="/dr/manifest.json" />
         <meta name="theme-color" content="#000000" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />

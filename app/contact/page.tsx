@@ -152,7 +152,7 @@ export default function ContactPage() {
 
             <div className="relative order-first lg:order-last">
               <Image
-                src="/images/Retroviruses-cuate.png"
+                src="/dr/images/Retroviruses-cuate.png"
                 alt="Office Reception"
                 width={500}
                 height={400}
