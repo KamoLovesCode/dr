@@ -1,0 +1,22 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js",
+  "/admin/appointments/page": "app/admin/appointments/page.js",
+  "/blog/child-health/page": "app/blog/child-health/page.js",
+  "/blog/mental-wellness/page": "app/blog/mental-wellness/page.js",
+  "/admin/theme/page": "app/admin/theme/page.js",
+  "/blog/chronic-conditions/page": "app/blog/chronic-conditions/page.js",
+  "/blog/heart-health/page": "app/blog/heart-health/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/blog/preventive-care/page": "app/blog/preventive-care/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/blog/vaccination-facts/page": "app/blog/vaccination-facts/page.js",
+  "/admin/pricing/page": "app/admin/pricing/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js"
+}
