@@ -1,5 +1,4 @@
 /** @type {import('next').NextConfig} */
-const isGithubPages = process.env.GITHUB_PAGES === 'true';
 const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
@@ -12,8 +11,8 @@ const nextConfig = {
   },
   output: 'export',
   trailingSlash: true,
-  basePath: isGithubPages ? '/dr' : '',
-  assetPrefix: isGithubPages ? '/dr/' : '',
+  basePath: '',  // Set to empty string for custom domain
+  assetPrefix: '', // Set to empty string for custom domain
 }
 
-export default nextConfig
+export default nextConfig;
