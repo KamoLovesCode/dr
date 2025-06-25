@@ -11,8 +11,8 @@ const nextConfig = {
   },
   output: 'export',
   trailingSlash: true,
-  basePath: '',  // Set to empty string for custom domain
-  assetPrefix: '', // Set to empty string for custom domain
+  basePath: '', // Set to empty string
+  assetPrefix: '', // Set to empty string
 }
 
 export default nextConfig;
